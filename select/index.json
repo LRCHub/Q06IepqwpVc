@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "WOKE UP",
+  "base_artist": "XG",
+  "createdAt": "2025-12-03T15:10:31.959978Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Woke Up In Love",
+      "artist": "Exile",
+      "has_synced": false,
+      "path": "select/01_Woke_Up_In_Love_Exile.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Woke Up In Love (Album Version)",
+      "artist": "Exile",
+      "has_synced": false,
+      "path": "select/02_Woke_Up_In_Love_(Album_Version)_Exile.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Woke Up in Nashville",
+      "artist": "Seth Ennis",
+      "has_synced": true,
+      "path": "select/03_Woke_Up_in_Nashville_Seth_Ennis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Woke Up New",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/04_Woke_Up_New_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Woke Up This Mornin'",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/05_Woke_Up_This_Mornin'_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Woke Up This Morning",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/06_Woke_Up_This_Morning_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Woke Up This Morning (My Baby's Gone)",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/07_Woke_Up_This_Morning_(My_Baby's_Gone)_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Woke Up Blessed",
+      "artist": "Tinashe",
+      "has_synced": true,
+      "path": "select/08_Woke_Up_Blessed_Tinashe.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Woke Up Laughing",
+      "artist": "Robert Palmer",
+      "has_synced": true,
+      "path": "select/09_Woke_Up_Laughing_Robert_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Woke Up Laughing",
+      "artist": "Robert Palmer",
+      "has_synced": true,
+      "path": "select/10_Woke_Up_Laughing_Robert_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Woke up in This World",
+      "artist": "The Atomica Project",
+      "has_synced": false,
+      "path": "select/11_I_Woke_up_in_This_World_The_Atomica_Project.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "She Never Woke Up",
+      "artist": "Christian Death",
+      "has_synced": false,
+      "path": "select/12_She_Never_Woke_Up_Christian_Death.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Woke Up Today",
+      "artist": "Jacob Collier",
+      "has_synced": true,
+      "path": "select/13_Woke_Up_Today_Jacob_Collier.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Woke Up Dead",
+      "artist": "Kyla La Grange",
+      "has_synced": true,
+      "path": "select/14_Woke_Up_Dead_Kyla_La_Grange.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Woke Up in Love",
+      "artist": "Kygo feat. Gryffin & Calum Scott",
+      "has_synced": true,
+      "path": "select/15_Woke_Up_in_Love_Kygo_feat._Gryffin_&_Calum_Scott.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Woke Up in Love",
+      "artist": "Kygo",
+      "has_synced": true,
+      "path": "select/16_Woke_Up_in_Love_Kygo.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Woke Up With a Monster",
+      "artist": "Cheap Trick",
+      "has_synced": true,
+      "path": "select/17_Woke_Up_With_a_Monster_Cheap_Trick.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WOKE UP",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/pl_01_WOKE_UP_XG.txt"
+    }
+  ]
+}
